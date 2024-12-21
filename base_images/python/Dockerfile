@@ -1,4 +1,4 @@
-FROM python:3.5
+FROM python:3.14.0a3
 
 MAINTAINER NGINX Docker Maintainers "docker-maint@nginx.com"
 
